@@ -12,13 +12,13 @@ body {
 
 .progress {
   margin: 1em auto;
-  width: 500px;
+  width: 932px;
   display: none;
 }
 
 .progressbar {
   position: relative;
-  width: 492px;
+  width: 924px;
   border: 1px solid black;
   padding: 3px;
   margin: 2px 0px;
@@ -26,7 +26,7 @@ body {
 
 .progresstext {
   position: absolute;
-  width: 492px;
+  width: 924px;
   margin: 3px 0px;
   text-align: center;
   font-size: 0.7em;
@@ -43,7 +43,7 @@ body {
   display: grid;
   grid-template-columns: 336px 1fr 336px;
   grid-gap: 5px;
-  width: 420px;
+  width: 1008px;
 }
 
 .button {
