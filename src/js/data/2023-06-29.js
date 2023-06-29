@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Albums",
     key: "albums",
     tooltip: "Check this to restrict to certain releases/albums.",
-    checked: false,
+    checked: true,
     sub: [
       { name: "Snow Mania S1", key: "S1" },
       { name: "Snow Labo. S2", key: "S2" },
@@ -18,7 +18,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Singles",
     key: "singles",
     tooltip: "Check this to restrict to only songs in the following singles.",
-    checked: false,
+    checked: true,
     sub: [ { name: "D.D./Imitation Rain", key: "ss1" }, { name: "Kissin' My Lips/Stories", key: "ss2" }, { name: "Grandeur", key: "ss3" }, { name: "Hello Hello", key: "ss4" }, { name: "Secret Touch", key: "ss5" }, { name: "Brother Beat", key: "ss6" }, { name: "Orange Kiss", key: "ss7" }, { name: "Tapestry/W", key: "ss8" }
     ]
   },
