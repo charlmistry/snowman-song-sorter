@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Albums",
     key: "albums",
     tooltip: "Check this to restrict to certain releases/albums.",
-    checked: true,
+    checked: false,
     sub: [
       { name: "Snow Mania S1", key: "S1" },
       { name: "Snow Labo. S2", key: "S2" },
