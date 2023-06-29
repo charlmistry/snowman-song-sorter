@@ -1,6 +1,6 @@
-# charasort
-A web based character sorter. Allows users to run through a manual merge sort of their favorite
-characters from a set.
+# Snow Man Song Sorter
+A web-based sorter. Allows users to run through a manual merge sort of their favorite
+items from a set.
 
 **Features**
  * Entirely client side, no backend server required.
