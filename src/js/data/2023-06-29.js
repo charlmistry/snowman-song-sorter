@@ -18,7 +18,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Singles",
     key: "singles",
     tooltip: "Check this to restrict to only songs in the following singles.",
-    checked: true,
+    checked: false,
     sub: [ { name: "D.D./Imitation Rain", key: "ss1" }, { name: "Kissin' My Lips/Stories", key: "ss2" }, { name: "Grandeur", key: "ss3" }, { name: "Hello Hello", key: "ss4" }, { name: "Secret Touch", key: "ss5" }, { name: "Brother Beat", key: "ss6" }, { name: "Orange Kiss", key: "ss7" }, { name: "Tapestry/W", key: "ss8" }
     ]
   },
