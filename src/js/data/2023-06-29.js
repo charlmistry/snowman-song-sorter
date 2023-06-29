@@ -27,7 +27,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "D.D.",
-    img: "",
+    img: "dd.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss1"]
@@ -35,7 +35,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Crazy F-R-E-S-H Beat",
-    img: "",
+    img: "cfb.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss1"]
@@ -43,7 +43,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Snow World",
-    img: "",
+    img: "sw.webp",
     opts: {
       albums: [],
       singles: ["ss1"]
@@ -51,7 +51,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "KISSIN' MY LIPS",
-    img: "",
+    img: "kml.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss2"]
@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Stories",
-    img: "",
+    img: "stories.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss2"]
@@ -67,7 +67,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kimi no Kareshi ni Naritai - 君の彼氏になりたい",
-    img: "",
+    img: "kimikare.webp",
     opts: {
       albums: [],
       singles: ["ss2"]
@@ -83,7 +83,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Grandeur",
-    img: "",
+    img: "grandeur.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss3"]
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Big Bang Sweet",
-    img: "",
+    img: "bbs.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss3"]
@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Namida no Umi wo Koeteike - ナミダの海を越えて行け",
-    img: "",
+    img: "nmd.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss3"]
@@ -107,7 +107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "EVERYTHING IS EVERYTHING",
-    img: "",
+    img: "eie.webp",
     opts: {
       albums: [],
       singles: ["ss3"]
@@ -115,7 +115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "HELLO HELLO",
-    img: "",
+    img: "hh.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss4"]
@@ -123,7 +123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "縁 -YUÁN-",
-    img: "",
+    img: "yuan.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss4"]
@@ -131,7 +131,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "YumYumYum~SpicyGirl~",
-    img: "",
+    img: "yyy.webp",
     opts: {
       albums: ["S1"],
       singles: ["ss4"]
@@ -139,7 +139,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hip bounce!!",
-    img: "",
+    img: "hb.webp",
     opts: {
       albums: [],
       singles: ["ss4"]
@@ -147,7 +147,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Secret Touch",
-    img: "",
+    img: "st.webp",
     opts: {
       albums: ["S2"],
       singles: ["ss5"]
@@ -163,7 +163,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Christmas wishes",
-    img: "",
+    img: "cw.webp",
     opts: {
       albums: [],
       singles: ["ss5"]
@@ -179,7 +179,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Brother Beat - ブラザービート",
-    img: "",
+    img: "bb.webp",
     opts: {
       albums: ["S2"],
       singles: ["ss6"]
@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "REFRESH",
-    img: "",
+    img: "rfsh.webp",
     opts: {
       albums: ["S2"],
       singles: ["ss6"]
@@ -203,7 +203,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ichibanboshi - イチバンボシ",
-    img: "",
+    img: "icbbs.webp",
     opts: {
       albums: [],
       singles: ["ss6"]
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Orange Kiss - オレンジkiss",
-    img: "",
+    img: "ok.webp",
     opts: {
       albums: ["S3"],
       singles: ["ss7"]
@@ -235,7 +235,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Boku ni Taisetsu ni Sarete ne -  僕に大切にされてね",
-    img: "",
+    img: "bts.webp",
     opts: {
       albums: [],
       singles: ["ss7"]
@@ -243,7 +243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tapestry - タペストリー ",
-    img: "",
+    img: "tpsty.webp",
     opts: {
       albums: ["S3"],
       singles: ["ss8"]
@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "W",
-    img: "",
+    img: "w.webp",
     opts: {
       albums: ["S3"],
       singles: ["ss8"]
@@ -275,7 +275,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "EVOLUTION",
-    img: "",
+    img: "evlt.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -283,7 +283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sugar",
-    img: "",
+    img: "sugar.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Infighter",
-    img: "",
+    img: "inf.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -307,7 +307,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Super Sexy",
-    img: "",
+    img: "ss.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "P.M.G.",
-    img: "",
+    img: "pmg.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -419,7 +419,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "ADDICTED TO LOVE",
-    img: "",
+    img: "atl.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -427,7 +427,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "360m",
-    img: "",
+    img: "360m.webp",
     opts: {
       albums: ["S1"],
       singles: []
@@ -435,7 +435,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "JUICY",
-    img: "",
+    img: "juicy.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Toxic Girl",
-    img: "",
+    img: "tg.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -459,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Midnight Trendy - ミッドナイト・トレンディ",
-    img: "",
+    img: "mt.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -483,7 +483,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kitta Kittenai - キッタキッテナイ",
-    img: "",
+    img: "kk.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Movin' up",
-    img: "",
+    img: "nu.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Boku to Kimi to - ボクとキミと",
-    img: "",
+    img: "bktk.webp",
     opts: {
       albums: ["S2"],
       singles: []
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aikotoba - あいことば",
-    img: "",
+    img: "aiktb.webp",
     opts: {
       albums: ["S3"],
       singles: []
@@ -571,7 +571,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "slow...",
-    img: "",
+    img: "slow.webp",
     opts: {
       albums: ["S3"],
       singles: []
@@ -659,7 +659,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Black Gold",
-    img: "",
+    img: "bg.webp",
     opts: {
       albums: ["unr"],
       singles: []
@@ -667,7 +667,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hirari to Sakura - ひらりと桜",
-    img: "",
+    img: "hts.webp",
     opts: {
       albums: ["unr"],
       singles: []
@@ -675,7 +675,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cry Out",
-    img: "",
+    img: "co.webp",
     opts: {
       albums: ["unr"],
       singles: []
