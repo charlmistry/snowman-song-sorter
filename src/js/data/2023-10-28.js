@@ -760,5 +760,5 @@ dataSet[dataSetVersion].characterData = [
       albums: [],
       singles: ["ss9"]
     }
-  }
+  },
 ];
