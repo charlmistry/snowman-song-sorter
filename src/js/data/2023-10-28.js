@@ -728,6 +728,7 @@ dataSet[dataSetVersion].characterData = [
       albums: ["unr"],
       singles: []
     }
+  };
   {
     name: "Dangerholic",
     img: "dh.webp",
@@ -735,6 +736,7 @@ dataSet[dataSetVersion].characterData = [
       albums: [],
       singles: ["ss9"]
     }
+  };
   {
     name: "ANY & EVERY",
     img: "",
@@ -742,6 +744,7 @@ dataSet[dataSetVersion].characterData = [
       albums: [],
       singles: ["ss9"]
     }
+  };
   {
     name: "DA BOMB",
     img: "dabomb.webp",
@@ -749,6 +752,7 @@ dataSet[dataSetVersion].characterData = [
       albums: [],
       singles: ["ss9"]
     }
+  };
   {
     name: "Best Friend (ベストフレンド)",
     img: "bestfriend.webp",
@@ -756,5 +760,5 @@ dataSet[dataSetVersion].characterData = [
       albums: [],
       singles: ["ss9"]
     }
-  }
+  };
 ];
