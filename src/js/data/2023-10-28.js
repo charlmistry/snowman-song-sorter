@@ -730,7 +730,7 @@ dataSet[dataSetVersion].characterData = [
     }
   {
     name: "Dangerholic",
-    img: "",
+    img: "dh.webp",
     opts: {
       albums: [],
       singles: ["ss9"]
@@ -744,14 +744,14 @@ dataSet[dataSetVersion].characterData = [
     }
   {
     name: "DA BOMB",
-    img: "",
+    img: "dabomb.webp",
     opts: {
       albums: [],
       singles: ["ss9"]
     }
   {
     name: "Best Friend (ベストフレンド)",
-    img: "",
+    img: "bestfriend.webp",
     opts: {
       albums: [],
       singles: ["ss9"]
