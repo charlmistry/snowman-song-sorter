@@ -12,7 +12,7 @@ dataSet[dataSetVersion].options = [
       { name: "Snow Labo. S2", key: "S2" },
       { name: "I Do Me", key: "S3" },
       { name: "Rays", key: "S4" },
-      { name: "The Best 2020-2025, key: "Solo"},
+      { name: "The Best 2020-2025", key: "Solo"},
       { name: "Onkochishin", key: "S5" },
       { name: "Unreleased Songs", key: "unr" },
     ]
