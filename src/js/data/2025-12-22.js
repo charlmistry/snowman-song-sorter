@@ -766,7 +766,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Love Trigger",
-    img: "lovetrigger.webp",
+    img: "lovetrigger.png",
     opts: {
       albums: ["S4","Solo"],
       singles: ["ss10"]
@@ -774,7 +774,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "We'll Go Together",
-    img: "wellgotogether.webp",
+    img: "wgt.png",
     opts: {
       albums: ["S4","Solo"],
       singles: ["ss10"]
@@ -782,7 +782,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "NEXT",
-    img: "next.webp",
+    img: "",
     opts: {
       albums: [],
       singles: ["ss10"]
@@ -790,7 +790,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "kokoro hitotsu - ココロヒトツ",
-    img: "kokorohitotsu.webp",
+    img: "",
     opts: {
       albums: [],
       singles: ["ss10"]
@@ -798,7 +798,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "BREAKOUT",
-    img: "breakout.webp",
+    img: "breakout.png",
     opts: {
       albums: ["Solo"],
       singles: ["ss11"]
@@ -806,7 +806,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "kimi wa boku no mono - 君は僕のもの",
-    img: "kimiboku.webp",
+    img: "kimiboku.png",
     opts: {
       albums: ["Solo"],
       singles: ["ss11"]
@@ -814,7 +814,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "dress & tuxedo - ドレス&タキシード",
-    img: "dressntux.webp",
+    img: "dressntux.png",
     opts: {
       albums: [],
       singles: ["ss11"]
@@ -822,7 +822,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "What's Your Color",
-    img: "whatsurcolor.webp",
+    img: "",
     opts: {
       albums: [],
       singles: ["ss11"]
@@ -830,7 +830,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Serious",
-    img: "serious.webp",
+    img: "serious.png",
     opts: {
       albums: ["S5"],
       singles: ["ss12"]
@@ -838,7 +838,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack In The Box",
-    img: "jackinthebox.webp",
+    img: "jitb.png",
     opts: {
       albums: [],
       singles: ["ss12"]
@@ -846,7 +846,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "natsuiro hanabi - 夏色花火",
-    img: "natsuirohanabi.webp",
+    img: "nihb.png",
     opts: {
       albums: [],
       singles: ["ss12"]
@@ -854,7 +854,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "bakyun - ばきゅん",
-    img: "bakyun.webp",
+    img: "",
     opts: {
       albums: [],
       singles: ["ss12"]
@@ -862,7 +862,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "EMPIRE",
-    img: "empire.webp",
+    img: "empire.png",
     opts: {
       albums: ["S4","Solo"],
       singles: []
@@ -870,7 +870,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "One",
-    img: "one.webp",
+    img: "one.png",
     opts: {
       albums: ["S4", "Solo"],
       singles: []
@@ -878,7 +878,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "lindi lala - リンディーララ",
-    img: "lindilala.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -886,7 +886,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "endless night",
-    img: "endlessnight.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -894,7 +894,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "start line - スタートライン",
-    img: "startline.webp",
+    img: "",
     opts: {
       albums: ["S4", "Solo"],
       singles: []
@@ -902,7 +902,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "kimi e okuru ouenka - 君へ贈る応援歌",
-    img: "kimiokuru.webp",
+    img: "kimiokuru.png",
     opts: {
       albums: ["S4"],
       singles: []
@@ -910,7 +910,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "kore ga ai janai no nara - これが愛じゃないのなら",
-    img: "koregaai.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -918,7 +918,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "ROCK 'N' ROLL",
-    img: "rnr.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -926,7 +926,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wha cha cha",
-    img: "wcc.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -934,7 +934,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "KATANA",
-    img: "katana.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -942,7 +942,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "GLITCH",
-    img: "glitch.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hot Flow",
-    img: "hot flow.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -958,7 +958,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "nightscape - ナイトスケープ",
-    img: "nightscape.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -966,7 +966,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "hoshi no uta - 星のうた",
-    img: "hoshinouta.webp",
+    img: "",
     opts: {
       albums: ["S4"],
       singles: []
@@ -974,7 +974,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "KANPAI Year!!",
-    img: "kanpaiyear.webp",
+    img: "",
     opts: {
       albums: ["S4", "Solo"],
       singles: []
@@ -982,7 +982,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "SBY",
-    img: "sby.webp",
+    img: "sby.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -990,7 +990,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Dear,",
-    img: "dear.webp",
+    img: "",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -998,7 +998,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Snow Man's Life",
-    img: "sml.webp",
+    img: "",
     opts: {
       albums: ["Solo", "S1"],
       singles: []
@@ -1006,7 +1006,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Happy Birthday",
-    img: "happybirthday.webp",
+    img: "",
     opts: {
       albums: ["Solo", "S2"],
       singles: []
@@ -1014,7 +1014,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nine Snow Flash",
-    img: "ninesnowflash.webp",
+    img: "",
     opts: {
       albums: ["Solo", "S3"],
       singles: []
@@ -1022,7 +1022,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A PIECE OF CAKE",
-    img: "apoc.webp",
+    img: "",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1030,7 +1030,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "7%",
-    img: "sevenpercent.webp",
+    img: "7.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1038,7 +1038,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "iro iro",
-    img: "iroiro.webp",
+    img: "iroiro.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1046,7 +1046,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Induction",
-    img: "induction.webp",
+    img: "induction.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1054,7 +1054,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "otononaruhoue - オトノナルホウへ",
-    img: "otononaruhoue.webp",
+    img: "otono.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1062,7 +1062,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "finder - ファインダー",
-    img: "finder.webp",
+    img: "finder.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1070,7 +1070,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "isso, kirai ni naretara - いっそ、嫌いになれたら。",
-    img: "issokiraininaretara.webp",
+    img: "isso.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1078,7 +1078,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "asa no jikan - 朝の時間",
-    img: "asanojikan.webp",
+    img: "asano.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1086,7 +1086,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I・datetomaranai - I・だって止まらない",
-    img: "idate.webp",
+    img: "idate.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1094,7 +1094,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "mamoritai、so no egao - 守りたい、その笑顔",
-    img: "mamoritaiegao.webp",
+    img: "mamori.png",
     opts: {
       albums: ["Solo"],
       singles: []
@@ -1102,7 +1102,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "TRUE LOVE",
-    img: "truelove.webp",
+    img: "truelove.png",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1110,7 +1110,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "BOOST",
-    img: "boost.webp",
+    img: "boost.png",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1118,7 +1118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Spark!!",
-    img: "spark.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1126,7 +1126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "kuchibiru - くちびる",
-    img: "kuchibiru.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1134,7 +1134,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "itazura na tenshi - 悪戯な天使",
-    img: "itazuratenshi.webp",
+    img: "itazuratenshi.png",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1150,7 +1150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "shitto girl - 嫉妬ガール",
-    img: "shittogirl.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1158,7 +1158,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Miss Brand-New Friday Night",
-    img: "missfriday.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1166,7 +1166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "yakusoku ha kimi to 約束は君と",
-    img: "yakusoku.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1174,7 +1174,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Days",
-    img: "days.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1182,7 +1182,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "愛のせいで",
-    img: "ainoseide.webp",
+    img: "ainoseide.png",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1190,7 +1190,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Symmetry",
-    img: "symmetry.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1198,7 +1198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "ART",
-    img: "art.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1206,7 +1206,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "chikyuu shiteruze - 地球してるぜ",
-    img: "chikyuu.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1214,7 +1214,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "sunshine dreamer - サンシャインドリーマー",
-    img: "sunshinedreamer.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
@@ -1222,7 +1222,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nine Snow Charge!!",
-    img: "nsc.webp",
+    img: "",
     opts: {
       albums: ["S5"],
       singles: []
